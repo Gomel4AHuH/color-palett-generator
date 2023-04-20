@@ -26,12 +26,9 @@ function createNewPallet(){
 
 // add elements into the body or after element
 function addPalett(obj, elem){
-    console.log(`elem ${typeof(elem)}`);
     if (elem === undefined){
-        console.log('undefined');
         document.body.append(obj.div);
     }else{
-        console.log(elem);
         document.body.insertBefore(obj.div, elem.nextElementSibling);
     }
     obj.div.appendChild(obj.hex);
