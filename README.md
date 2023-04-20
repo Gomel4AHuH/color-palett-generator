@@ -1,7 +1,7 @@
 ﻿# Color paletts generator
 
 ## This App allows you to see random colors in different vertical paletts.
-## App functionalities:
+### App functionalities:
 1. The four palett by default with random background colors.
 2. Space button is used for refreshing all paletts.
 3. '-' button is used for deleting current palett.
