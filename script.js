@@ -85,7 +85,6 @@ document.body.addEventListener('click', (e) => {
         e.target.classList.toggle('hide');
         e.target.parentElement.querySelector('.fa-lock').classList.toggle('hide');
         e.target.parentElement.querySelector('.fa-rotate').classList.toggle('hide');
-        e.target.parentElement.querySelector('.fa-square-plus').classList.toggle('hide');
         e.target.parentElement.querySelector('.fa-square-minus').classList.toggle('hide');
         e.target.parentElement.parentElement.classList.toggle('lock');
     }
@@ -94,7 +93,6 @@ document.body.addEventListener('click', (e) => {
         e.target.classList.toggle('hide');
         e.target.parentElement.querySelector('.fa-lock-open').classList.toggle('hide');
         e.target.parentElement.querySelector('.fa-rotate').classList.toggle('hide');
-        e.target.parentElement.querySelector('.fa-square-plus').classList.toggle('hide');
         e.target.parentElement.querySelector('.fa-square-minus').classList.toggle('hide');
         e.target.parentElement.parentElement.classList.toggle('lock');
     }
