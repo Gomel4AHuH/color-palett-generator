@@ -9,4 +9,4 @@
 5. Refresh button is used for refreshing current palett.
 6. Lock/unlock buttons is used for locking/unlocking current palett from refreshing.
 
-[Check the link ](https://pages.github.com/)
+[Check the link ]([https://gomel4ahuh.github.io/color-palett-generator/])
